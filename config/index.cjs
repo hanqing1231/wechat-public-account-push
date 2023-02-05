@@ -29,7 +29,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '节日', name: '你的生日', year: '2020', date: '09-03',
+          type: '节日', name: '你的生日', year: '2020', date: '05-21',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
